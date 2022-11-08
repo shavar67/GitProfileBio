@@ -1,0 +1,15 @@
+/Users/var/Desktop/githubprofille_c#/GitProfileBio/GitProfileBio/bin/Debug/net6.0/GitProfileBio
+/Users/var/Desktop/githubprofille_c#/GitProfileBio/GitProfileBio/bin/Debug/net6.0/GitProfileBio.deps.json
+/Users/var/Desktop/githubprofille_c#/GitProfileBio/GitProfileBio/bin/Debug/net6.0/GitProfileBio.runtimeconfig.json
+/Users/var/Desktop/githubprofille_c#/GitProfileBio/GitProfileBio/bin/Debug/net6.0/GitProfileBio.dll
+/Users/var/Desktop/githubprofille_c#/GitProfileBio/GitProfileBio/bin/Debug/net6.0/GitProfileBio.pdb
+/Users/var/Desktop/githubprofille_c#/GitProfileBio/GitProfileBio/obj/Debug/net6.0/GitProfileBio.csproj.AssemblyReference.cache
+/Users/var/Desktop/githubprofille_c#/GitProfileBio/GitProfileBio/obj/Debug/net6.0/GitProfileBio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/var/Desktop/githubprofille_c#/GitProfileBio/GitProfileBio/obj/Debug/net6.0/GitProfileBio.AssemblyInfoInputs.cache
+/Users/var/Desktop/githubprofille_c#/GitProfileBio/GitProfileBio/obj/Debug/net6.0/GitProfileBio.AssemblyInfo.cs
+/Users/var/Desktop/githubprofille_c#/GitProfileBio/GitProfileBio/obj/Debug/net6.0/GitProfileBio.csproj.CoreCompileInputs.cache
+/Users/var/Desktop/githubprofille_c#/GitProfileBio/GitProfileBio/obj/Debug/net6.0/GitProfileBio.dll
+/Users/var/Desktop/githubprofille_c#/GitProfileBio/GitProfileBio/obj/Debug/net6.0/refint/GitProfileBio.dll
+/Users/var/Desktop/githubprofille_c#/GitProfileBio/GitProfileBio/obj/Debug/net6.0/GitProfileBio.pdb
+/Users/var/Desktop/githubprofille_c#/GitProfileBio/GitProfileBio/obj/Debug/net6.0/GitProfileBio.genruntimeconfig.cache
+/Users/var/Desktop/githubprofille_c#/GitProfileBio/GitProfileBio/obj/Debug/net6.0/ref/GitProfileBio.dll
